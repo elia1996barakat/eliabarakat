@@ -107,7 +107,7 @@ for(let i = 0; i < datapro.length;i++)
 {
     table += `
                             <tr>
-                            <td>${1}</td>
+                            <td>${i}</td>
                             <td>${datapro[i].title}</td>
                             <td>${datapro[i].price}</td>
                             <td>${datapro[i].texes}</td>
